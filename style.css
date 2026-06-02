@@ -3,7 +3,7 @@ body {
 }
 
 nav a {
-  color: white;
+  color: rgb(255, 230, 1);
 }
 
 footer {
@@ -12,4 +12,11 @@ footer {
   text-align: center;
   padding: 1rem;
   margin-top: 2rem;
+}
+
+.row{
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
 }
